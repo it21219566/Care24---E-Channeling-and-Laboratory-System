@@ -6,9 +6,9 @@
 - U.N.H.MADHUWANTHA     [IT21168390](https://github.com/IT21168390)
 - G.K.G.SARANGA         [IT21168222](https://github.com/IT21168222)
 - S.M.K.THATHSARA       [IT21219566](https://github.com/IT21219566)
-- MUNASINGHE V. N       [IT21168086]
-- ARACHCHI M.J.E.M      [IT21172700]
-- PINSARA A.R.D         [IT21158186]
+- MUNASINGHE V. N       [IT21168086](https://github.com/VishakNayanajith)
+- ARACHCHI M.J.E.M      [IT21172700](https://github.com/IT21172700)
+- PINSARA A.R.D         [IT21158186](https://github.com/IT21158186)
 - EKANAYAKA E.M.A       [IT21186110]
 
 ## Tools & Technologies
